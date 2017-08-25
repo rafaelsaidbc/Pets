@@ -11,6 +11,10 @@
      limitations under the License.
 -->
 <resources>
+    <string name="editor_insert_pet_successful">Pet saved</string>
+
+    <string name="editor_insert_pet_failed">Error with saving pet</string>
+
     <!-- Name for the application [CHAR LIMIT=12] -->
     <string name="app_name">Pets</string>
 
