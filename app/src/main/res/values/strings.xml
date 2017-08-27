@@ -11,6 +11,9 @@
      limitations under the License.
 -->
 <resources>
+
+    <!-- Title for the activity to edit an existing pet [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_edit_pet">Edit Pet</string>
     <!-- Texto do título para a view vazia, que descreve a imagem vazia da casa de cachorro [CHAR LIMIT=50] -->
     <string name="empty_view_title_text">It\'s a bit lonely here...</string>
 
